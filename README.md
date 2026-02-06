@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nithin A V</h1>
 
-<!--
-**NithinAV12/NithinAV12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=520&lines=Web+Development+Intern;Frontend+Developer+in+Progress;React+%7C+JavaScript+%7C+Tailwind;Creating+bugs+since+2024" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arunhari67980&label=Profile%20Views&color=00FF41&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Matrix / Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+🎓 BE Computer Science Engineering student  
+💻 Web Development Intern from **Kanyakumari, India**  
+🎯 Aspiring **inevitable web developer**
+
+- 🛠️ Strong in **HTML, CSS, JavaScript**
+- ⚛️ Learning **React & Node.js**
+- 😄 Fun fact: *My code works… until the demo*
+
+---
+
+<!-- Animated Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+## 🌟 Highlights
+
+- 🚀 Built **responsive web applications** using HTML, CSS & JavaScript  
+- ⚛️ Hands-on experience with **React component-based architecture**  
+- 🎨 Focused on **clean UI, reusability & design consistency**  
+- 🧠 Actively learning **advanced React patterns & Tailwind CSS**  
+- 🤝 Working experience as a **Web Development Intern**  
+- 📈 Consistently improving through **real-world projects & GitHub commits**
+
+---
+
+## 🧠 Currently Learning
+
+- ⚛️ Advanced React patterns (hooks, composition)
+- 🎨 Tailwind CSS design systems
+- 🌐 API integration & async workflows
+- 🧪 Component testing with Jest & Storybook
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+
+
+
+
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arunhari678">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:arunhari67890@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer"/>
+</p>
+
+⭐ **Always learning. Always building.**
